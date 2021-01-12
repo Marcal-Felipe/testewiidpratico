@@ -41,6 +41,18 @@ const CustomList = () => {
 					<LocalOfferIcon style={{ marginLeft: '60px' }} />
 				</ListItemIcon>
 			</ListItem>
+			<ListItem className={classes.root} button>
+				<ListItemText primary="FIAT" secondary="Palio G5 SP.1.6 Flex, 2016" />
+				<ListItemIcon>
+					<LocalOfferIcon style={{ marginLeft: '60px' }} />
+				</ListItemIcon>
+			</ListItem>
+			<ListItem className={classes.root} button>
+				<ListItemText primary="FIAT" secondary="Palio G5 SP.1.6 Flex, 2016" />
+				<ListItemIcon>
+					<LocalOfferIcon style={{ marginLeft: '60px' }} />
+				</ListItemIcon>
+			</ListItem>
 		</Box>
 	);
 };
