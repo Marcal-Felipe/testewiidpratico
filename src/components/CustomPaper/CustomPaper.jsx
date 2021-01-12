@@ -66,7 +66,11 @@ const CustomPaper = () => {
 							variant="body2"
 							style={{ wordWrap: 'break-word', height: '175px' }}
 						>
-							aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+							Integra GS está equipado com um motor Em linha de 4 cilindros
+							atmosférico, a Gasolina. Este motor produz uma potência máxima de
+							172 CV às 7600 rotações e um torque máximo de 174.0 Nm às 7600
+							rotações. A potência é transmitida à estrada através de um câmbio
+							Manual de 5 marchas, e o tipo de tração é dianteira (FWD).
 						</Typography>
 					</Box>
 				</Box>
